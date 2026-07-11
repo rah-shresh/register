@@ -4,6 +4,6 @@
     "email": "shresrahangdale@gmail.com"
   },
   "records": {
-    "TXT": "vc-domain-verify=rah-shresh.is-a.dev,c18ba3da88ffeff0067a"
+    "CNAME": "shreshr.vercel.app"
   }
 }
